@@ -1,7 +1,7 @@
 python-telegram-bot==13.15
+Flask==3.1.1
 APScheduler
 pillow
 requests
 yfinance
 mplfinance
-Flask
