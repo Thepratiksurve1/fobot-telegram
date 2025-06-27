@@ -1,0 +1,1 @@
+# Trade logic for F&O + stocks
